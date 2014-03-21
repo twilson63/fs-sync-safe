@@ -1,6 +1,6 @@
 {
   "name": "fs-sync-safe",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A wrapper around fs.readFileSync to return string or empty",
   "main": "index.js",
   "directories": {
